@@ -1,0 +1,6 @@
+{
+  "name": "Aura Directory",
+  "description": "Verified companion and local talent directory featuring comprehensive location hierarchies, real-time availability, and admin CMS portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
